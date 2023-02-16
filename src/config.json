@@ -24,10 +24,10 @@
   },
   "footerLinks": [
     {
-      "subTitle": "Turtle",
+      "subTitle": "Info",
       "links": [
         {
-          "text": "Turtle",
+          "text": "About us",
           "link": "/about"
         },
         {
